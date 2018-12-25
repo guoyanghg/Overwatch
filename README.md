@@ -25,7 +25,7 @@ Testing script: OWExample.py
 
 Using the custom mode and screenshots in the game, we collected 5 heroes: Reaper, Hanzo, Reinhardt, Mercy, and Genji, along with a total of 500 images (100 per hero). We used the player's crosshair as the origin in order to establish a two-dimensional coordinate system. We divided the screen into four quadrants, and used the combination of two space unit vectors to mark the enemy's direction. For example, the following picture shows the location of the Reaper. Is (+1, +1). Similarly, the possible values of the remaining flags are (+1, 0), (+1, -1), (0, 0), (0, -1), (-1, +1), (-1, 0 ), (-1, -1).
 
-![image](http://github.com/guoyanghg/Overwatch/readmeim.bmp)
+![image](readmeim.bmp)
 
 
 * Model design
