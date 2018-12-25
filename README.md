@@ -13,7 +13,7 @@
 
 Path parameters are in the ImageReader.py file.
 
-Traing Script: OWModel.py
+Training Script: OWModel.py
 
 ## Test and Result
 
