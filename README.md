@@ -1,5 +1,5 @@
 # Overwatch
-Overwatch automatic alarm system based on Convolutional neural network(CNN)
+Overwatch automatic alarm system based on Convolutional Neural Network(CNN)
 
 ## Prerequisites
 * PyCharm:  https://www.jetbrains.com/pycharm/download/#section=windows
