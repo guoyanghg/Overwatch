@@ -30,7 +30,7 @@ Using the custom mode and screenshots in the game, we collected 5 heroes: Reaper
 
 * Model design
 
-The function of feature extraction is implemented by using three convolutional layers. After the convolution, the two heads are separated, and each head completes the corresponding classification task. For the enemy identification (Classifier-C), since the mark adopts one-hot form, the loss function selects the cross-entropy. For direction identification (Classifier-D), the loss function selects the mean square error (MSE).
+The feature extraction function is implemented by using three convolutional layers. After the convolution, the two heads are separated, and each head completes the corresponding classification task. For the enemy identification (Classifier-C), we use cross-entropy as loss function. For direction identification (Classifier-D), the loss function is the mean square error (MSE).
 
 
 
