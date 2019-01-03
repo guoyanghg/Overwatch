@@ -12,13 +12,13 @@ Overwatch automatic alarm system based on Convolutional Neural Network(CNN)
 
 ## Training
 
-Path parameters are in the ImageReader.py file.
+Path parameters are in the `ImageReader.py` file.
 
-Training Script: OWModel.py
+Training Script: `OWModel.py`
 
 ## Test and Result
 
-Testing script: OWExample.py
+Testing script: `OWExample.py`
 
 ## Details
 * Establish and label the data sets
